@@ -1,2 +1,0 @@
-# strello
-Trelo Powerup
